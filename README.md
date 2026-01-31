@@ -30,7 +30,6 @@ project-folder/
 └── assets/
     └── images/
 
-
 How the Application Works
 1. Product Catalog
 Displays a list of products with:
