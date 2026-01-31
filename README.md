@@ -97,7 +97,6 @@ Product filtering and search
 Login form with validation
 Better UI styling
 
-IndexedDB for larger datasets
 
 📄 License
 This project is for educational purposes only.
